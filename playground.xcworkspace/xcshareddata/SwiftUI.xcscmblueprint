@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "AC907FAFA42CAE27006C8B5F04CE79269E55B723",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "AC907FAFA42CAE27006C8B5F04CE79269E55B723" : 0,
+    "8A684E981FC44126AEF3CEC6CD97D56F2833649A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "ADA7260B-6792-4372-85A0-21A7BEFB4C00",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "AC907FAFA42CAE27006C8B5F04CE79269E55B723" : "SwiftUI.playground\/",
+    "8A684E981FC44126AEF3CEC6CD97D56F2833649A" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : ".",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnathanFlint\/String-Playgroung.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8A684E981FC44126AEF3CEC6CD97D56F2833649A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JohnathanFlint\/SwiftUI.playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AC907FAFA42CAE27006C8B5F04CE79269E55B723"
+    }
+  ]
+}
